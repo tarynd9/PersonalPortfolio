@@ -26,13 +26,13 @@ svg{
   /* Light Theme Variables */
   --color-text-light: #353635;
   --color-background-light: #FFFFFF;
-  --color-dell-blue: #0076CE;
-  --color-midnight-blue: #00447C;
-  --color-blue-light: #41B6E6;
+  --color-dell-blue: #d8277a;
+  --color-midnight-blue: #0e808f;
+  --color-blue-light: #e47f3c;
 
   /* Dark Theme Variables */
   --color-text-dark: #FFFFFF;
-  --color-background-dark: #353635;
+  --color-background-dark: #4e4e4e;
 }
 
 .light-theme{
