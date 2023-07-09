@@ -22,6 +22,14 @@ svg{
   transition: background-color 0.5s, color 0.5s;
 }
 
+a {
+  color: #e47f3c
+}
+
+a:hover {
+  color: #d16207
+}
+
 :root{
   /* Light Theme Variables */
   --color-text-light: #353635;
